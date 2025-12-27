@@ -1,0 +1,6 @@
+
+{
+  "name": "Arix Signature Interactive Christmas Tree",
+  "description": "An opulent, cinematic 3D interactive Christmas experience featuring a procedural emerald and gold tree, powered by Gemini AI for a luxury concierge interaction.",
+  "requestFramePermissions": ["microphone"]
+}
